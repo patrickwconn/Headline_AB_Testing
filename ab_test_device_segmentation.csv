@@ -1,0 +1,7 @@
+variant,device_type,click_through_rate
+A,mobile,0.0717
+B,mobile,0.1037
+A,desktop,0.0967
+B,desktop,0.1267
+A,tablet,0.0817
+B,tablet,0.1117
